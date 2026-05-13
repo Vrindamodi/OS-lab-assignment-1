@@ -1,4 +1,3 @@
-#!/bin/bash
 echo -n "Enter basic salary: "
 read base
 if [ "$base" -lt 1500 ]; then
